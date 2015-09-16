@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘日子王所問經
+#+DATE: 2015-08-30 20:01:12.375295
+#+PROPERTY: JUAN 0
